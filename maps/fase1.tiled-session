@@ -1,0 +1,72 @@
+{
+    "activeFile": "fase2.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 5.5
+        },
+        "#tileset": {
+            "scaleInDock": 1
+        },
+        "fase1.tmx": {
+            "expandedObjectLayers": [
+                4,
+                5,
+                3,
+                7,
+                8,
+                2,
+                9
+            ],
+            "scale": 2,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 20.5,
+                "y": 120.25
+            }
+        },
+        "fase1.tmx#tileset": {
+            "scaleInDock": 3
+        },
+        "fase2.tmx": {
+            "expandedObjectLayers": [
+                4,
+                5,
+                6
+            ],
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 162.66666666666674,
+                "y": 187.99999999999994
+            }
+        },
+        "fase2.tmx#tileset": {
+            "scaleInDock": 3
+        },
+        "sem título.tmx": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -37.66666666666666,
+                "y": 80.66666666666666
+            }
+        },
+        "sem título.tmx#tileset": {
+            "scaleInDock": 5.5
+        }
+    },
+    "last.exportedFilePath": "D:/scripts/GameJAMS/Ticks/maps",
+    "map.lastUsedExportFilter": "Todos os Ficheiros (*)",
+    "openFiles": [
+        "fase2.tmx",
+        "fase1.tmx"
+    ],
+    "project": "fase1.tiled-project",
+    "recentFiles": [
+        "fase1.tmx",
+        "fase2.tmx",
+        "sem título.tmx"
+    ]
+}

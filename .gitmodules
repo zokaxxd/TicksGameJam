@@ -1,0 +1,9 @@
+[submodule "windfield"]
+	path = windfield
+	url = https://github.com/a327ex/windfield.git
+[submodule "anim8"]
+	path = anim8
+	url = https://github.com/kikito/anim8.git
+[submodule "Simple-Tiled-Implementation"]
+	path = Simple-Tiled-Implementation
+	url = https://github.com/karai17/Simple-Tiled-Implementation.git

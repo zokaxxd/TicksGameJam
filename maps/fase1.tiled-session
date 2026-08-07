@@ -4,7 +4,7 @@
     ],
     "fileStates": {
         "": {
-            "scaleInDock": 5.5
+            "scaleInDock": 3
         },
         "#tileset": {
             "scaleInDock": 1
@@ -33,13 +33,17 @@
             "expandedObjectLayers": [
                 4,
                 5,
-                6
+                3,
+                7,
+                8,
+                2,
+                9
             ],
-            "scale": 0.75,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 162.66666666666674,
-                "y": 187.99999999999994
+                "x": -129,
+                "y": 11
             }
         },
         "fase2.tmx#tileset": {
@@ -59,6 +63,7 @@
     },
     "last.exportedFilePath": "D:/scripts/GameJAMS/Ticks/maps",
     "map.lastUsedExportFilter": "Todos os Ficheiros (*)",
+    "map.lastUsedFormat": "tmx",
     "openFiles": [
         "fase2.tmx",
         "fase1.tmx"

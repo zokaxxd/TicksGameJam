@@ -12,7 +12,7 @@ function drawMenu()
     end
     love.graphics.rectangle('fill', botaoJogar.x, botaoJogar.y, botaoJogar.w, botaoJogar.h)
 
-    love.graphics.setColor(1, 1, 1, 1) -- reset, senão o texto sai colorido também
+    love.graphics.setColor(1, 1, 1, 1) 
     love.graphics.printf(botaoJogar.texto, botaoJogar.x, botaoJogar.y + 38, botaoJogar.w, 'center')
     love.graphics.setFont(fonte)
 end
@@ -38,7 +38,7 @@ function deadMenu()
     end
     love.graphics.rectangle('fill', menu.x, menu.y, menu.w, menu.h)
 
-    love.graphics.setColor(1, 1, 1, 1) -- reset, senão o texto sai colorido também
+    love.graphics.setColor(1, 1, 1, 1) 
     love.graphics.printf(menu.texto, menu.x, menu.y + 38, menu.w, 'center')
     love.graphics.setFont(fonte)
 end

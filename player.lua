@@ -204,7 +204,7 @@ function playerDraw()
 
     player.animAtual.anim:draw(player.animAtual.img, 0, offsetY, 0, sx, sy, player.animAtual.ox, player.animAtual.oy)
 
-    if shouldDraw then -- player pisca se tomar dano e o invencible tiver ativo
+    if shouldDraw then 
         player.animAtual.anim:draw(player.animAtual.img, 0, offsetY, 0, sx, sy, player.animAtual.ox, player.animAtual.oy)
     end
     love.graphics.setColor(1, 1, 1)
